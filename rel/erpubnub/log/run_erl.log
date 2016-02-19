@@ -1,0 +1,8 @@
+run_erl [1605] Fri Feb 19 16:21:56 2016
+Args before exec of shell:
+run_erl [1605] Fri Feb 19 16:21:56 2016
+argv[0] = sh
+run_erl [1605] Fri Feb 19 16:21:56 2016
+argv[1] = -c
+run_erl [1605] Fri Feb 19 16:21:56 2016
+argv[2] = exec /Users/home/erpubnub/rel/erpubnub/bin/erpubnub console '' 

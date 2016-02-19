@@ -1,0 +1,11 @@
+{application,erpubnub,
+             [{description,"Erlang PubNub API"},
+              {vsn,"0.1.0"},
+              {registered,[erpubnub_sup]},
+              {applications,[kernel,stdlib,ssl,jsx,hackney]},
+              {mod,{erpubnub_app,[]}},
+              {contributors,["Tristan Sloughter"]},
+              {licenses,["LGPL"]},
+              {links,[{"Github","https://github.com/tsloughter/epubnub"}]},
+              {modules,[erpn_basic_examples,erpn_example_client,erpubnub,
+                        erpubnub_app,erpubnub_sup]}]}.
